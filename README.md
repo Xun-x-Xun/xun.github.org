@@ -1,2 +1,2 @@
-# xun223456.github.org
-log
+# 个人日志网站
+oxo
